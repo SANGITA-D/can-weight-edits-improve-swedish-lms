@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+data/flores/
+refs/
+Candidate assignment*.pdf
+results/e2/directions_v1_backup.pt
+.DS_Store
+scripts/sync_arr.sh
+results/n100_paper_16k_*/
+results/progress.md
+.claude/

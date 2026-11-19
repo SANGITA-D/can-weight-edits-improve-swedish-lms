@@ -1,0 +1,39 @@
+{"id": 0, "sensible": true, "note": "Relevant, mostly correct librarian duties; some awkward phrasing and minor repetition."}
+{"id": 1, "sensible": true, "note": "Borderline: basic rotor-generator idea right; odd coined terms, repeated bullets, stray Chinese."}
+{"id": 2, "sensible": false, "note": "Starts fine, then degenerates into meaningless repeated phrases about stress, evolution."}
+{"id": 3, "sensible": false, "note": "Garbled terms, wrong physics (lift = thrust - drag), heavy repetition."}
+{"id": 4, "sensible": true, "note": "Core weather/climate distinction correct; table has some errors."}
+{"id": 5, "sensible": false, "note": "Wrong (chewing in stomach), incoherent, repetition loop."}
+{"id": 6, "sensible": true, "note": "Correct explanation: lower air pressure lowers boiling point."}
+{"id": 7, "sensible": true, "note": "Reasonable story elements; minor word errors ('Middag' for middle)."}
+{"id": 8, "sensible": false, "note": "Misreads 'bin' as biology; off-topic, repetitive."}
+{"id": 9, "sensible": false, "note": "Basic definition ok but dominated by repeated vague sentences."}
+{"id": 10, "sensible": false, "note": "Wrong: rainbow explained as condensation with CO2; no light refraction."}
+{"id": 11, "sensible": false, "note": "Repetition loop of identical list items."}
+{"id": 12, "sensible": false, "note": "Vague, partly wrong, each point repeated verbatim; heavy repetition."}
+{"id": 13, "sensible": true, "note": "Borderline: general idea of voting correct; some nonsense words and repetition."}
+{"id": 14, "sensible": false, "note": "Claims 'dammsugare' unknown, describes HVAC dampers; off-topic, repetitive."}
+{"id": 15, "sensible": true, "note": "Mostly correct thermometer types; some errors and German words ('flüssig')."}
+{"id": 16, "sensible": false, "note": "Starts ok, then repetitive empty advice; wrong breathing technique."}
+{"id": 17, "sensible": true, "note": "Mostly correct health benefits; some English headings, minor errors."}
+{"id": 18, "sensible": true, "note": "Correct distinction with examples; some repeated bullets."}
+{"id": 19, "sensible": true, "note": "Borderline: photovoltaic steps right; later sections repetitive nonsense."}
+{"id": 20, "sensible": false, "note": "Interprets dishwasher as hard drive; repetition loop."}
+{"id": 21, "sensible": false, "note": "Defines continent wrongly as a border between countries."}
+{"id": 22, "sensible": false, "note": "Wind mentioned, then nonsense 'vattenkärna' repeated in every section."}
+{"id": 23, "sensible": true, "note": "Correct, coherent explanation of a budget."}
+{"id": 24, "sensible": false, "note": "Wrong causes (no axial tilt), circular, heavy repetition."}
+{"id": 25, "sensible": false, "note": "Growth rings garbled, nonsense methods and contradictions."}
+{"id": 26, "sensible": true, "note": "Mostly correct thermometer types; thermocouple slightly wrong."}
+{"id": 27, "sensible": false, "note": "Degenerates into repetition loop ('Läs i en läskänsla')."}
+{"id": 28, "sensible": true, "note": "Borderline: boot sequence gist right; heavy English/Danish words, vague."}
+{"id": 29, "sensible": true, "note": "Biotic/abiotic explanation mostly correct; odd examples and word errors."}
+{"id": 30, "sensible": false, "note": "Pumps blood right, but repeats wrong 'pumpar blod till hjärtat'."}
+{"id": 31, "sensible": false, "note": "Wrong, vague factors; no axial tilt; repetitive."}
+{"id": 32, "sensible": true, "note": "Gist right (microwaves vibrate food, heat); mechanism partly wrong."}
+{"id": 33, "sensible": true, "note": "Oxidation and PPO correct; minor errors (anthocyanin, melanin)."}
+{"id": 34, "sensible": true, "note": "Correct sound reflection explanation; some English words, 'ekt' typo."}
+{"id": 35, "sensible": false, "note": "Repetition loop of 'undvika smärta'; no real content."}
+{"id": 36, "sensible": false, "note": "Condensation mentioned but mostly garbled, wrong cloud descriptions."}
+{"id": 37, "sensible": true, "note": "Reasonable presentation preparation steps; minor oddities."}
+{"id": 38, "sensible": false, "note": "Starts ok, then nonsense repeated 'hålla språket i hållning'."}

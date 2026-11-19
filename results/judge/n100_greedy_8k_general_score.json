@@ -1,0 +1,9 @@
+{
+ "tag": "n100_greedy_8k",
+ "n_M0": 100,
+ "n_M1": 100,
+ "answered_M0": 7,
+ "answered_M1": 32,
+ "sensible_a": 3,
+ "sensible_b": 15
+}

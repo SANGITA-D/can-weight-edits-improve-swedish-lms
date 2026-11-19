@@ -1,0 +1,11 @@
+{
+  "model": "M0",
+  "hf_id": "Qwen/Qwen3.5-0.8B",
+  "revision": "2fc06364715b967f1860aea9cf38778875588b17",
+  "decoding": "paper",
+  "thinking": true,
+  "max_new_tokens": 8192,
+  "n": 100,
+  "seed": 0,
+  "engine": "vllm"
+}

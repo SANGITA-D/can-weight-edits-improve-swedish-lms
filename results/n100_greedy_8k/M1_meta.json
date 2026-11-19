@@ -1,0 +1,11 @@
+{
+  "model": "M1",
+  "hf_id": "RikiyaT/Qwen3.5-0.8B-weight-space-programming",
+  "revision": "d1671a178705bcab7644806d23c535517f35723b",
+  "decoding": "greedy",
+  "thinking": true,
+  "max_new_tokens": 8192,
+  "n": 100,
+  "seed": 0,
+  "engine": "vllm"
+}
